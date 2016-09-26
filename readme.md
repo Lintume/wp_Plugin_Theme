@@ -2,7 +2,7 @@
 ## Wordpress movie catalog
 *Version Beta 1 - 2016.09.26
 
- Package add-ons hrlp to create a catalog of films.
+ Package add-ons help to create a catalog of films.
  It involved 3 receptions with WordPress: creating shortcode [5_last_films] (the output of the last 5 movies on the page "5_last_films",
  create a template (the output of every single movie on the "film-description") and the creation of plug-in
  (the creation of the page with all the movies "films").
